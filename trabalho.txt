@@ -1,0 +1,48 @@
+Objetivo: 
+O objetivo deste trabalho é aplicar os conceitos aprendidos em aula de HTML, CSS, Bootstrap e JavaScript 
+para criar um projeto web interativo consistindo em três páginas interligadas. 
+
+
+Descrição do Projeto: 
+Você é um estudante do curso superior em Ciências da Computação e foi designado para criar um projeto web 
+que demonstre seu conhecimento em desenvolvimento front-end. Este projeto consistirá em três páginas web 
+interconectadas por links, cada uma com um propósito específico. 
+
+
+Páginas do Projeto: 
+1. Página de Apresentação (‘index.html’): 
+   - Crie uma página de apresentação onde você pode incluir informações sobre o curso, a instituição de 
+   ensino e uma breve introdução. 
+
+2. Página de Conteúdo (‘conteudo.html’): 
+   - Crie uma página de conteúdo onde você demonstrará os conceitos de HTML, CSS, Bootstrap e JavaScript que 
+   aprendeu nas aulas. Você pode incluir exemplos práticos e explicativos para cada um desses conceitos. 
+
+3. Página de Formulário (‘formulario.html’): 
+   - Crie uma página de formulário que inclua campos como nome, e-mail, número de telefone, data de nascimento,
+    observações etc. 
+   - Utilize Bootstrap para melhorar o layout e a aparência do formulário. 
+   - Adicione JavaScript para validar as informações do formulário. Por exemplo, você pode validar o formato 
+   do e-mail inserido. 
+
+ 
+Instruções: 
+1. Crie uma estrutura de diretórios organizada para o seu projeto. 
+
+2. Utilize HTML, CSS e Bootstrap para criar as páginas. 
+
+3. Na página de formulário (‘formulario.html’), adicione JavaScript para realizar a validação dos campos. 
+Certifique-se de fornecer feedback ao usuário caso haja erros de validação. 
+
+4. As três páginas devem estar interligadas por meio de links. Coloque links na parte superior ou inferior 
+de cada página que levem o usuário para as outras duas páginas. 
+
+5. Teste o seu projeto em um navegador web para garantir que todas as funcionalidades estejam funcionando 
+corretamente. 
+
+6. Este é um exercício individual. Cada aluno deve criar seu próprio projeto. 
+
+
+Entrega: 
+- Envie o projeto completo, incluindo todos os arquivos HTML, CSS e qualquer arquivo JavaScript 
+que você tenha criado, compactados em um arquivo ZIP. 
